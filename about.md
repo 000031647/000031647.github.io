@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Hannah. Hi.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I don't know what I'm doing...
 ### Contact me
+##### (please don't)
 
-[email@domain.com](mailto:email@domain.com)
+[000031647@student.thomroth.ac.uk](mailto:000031647@student.thomroth.ac.uk)
