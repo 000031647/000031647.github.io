@@ -5,7 +5,7 @@ categories: C# Programming
 ---
 
 ## Types of variable:
-* string (str)  
+* string (string)  
 * integer (int)  
 * decimal (double)  
 * boolean (bool)  
