@@ -13,7 +13,7 @@ categories: C# Programming
 
 When using variables in C#, you must define it before it can be used:
 ```csharp
-str vString
+string vString
 int vInteger
 double vDecimal
 bool vBoolean
